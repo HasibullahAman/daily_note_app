@@ -1,6 +1,6 @@
 import 'package:daily_note_app/app/data/enums.dart';
-import 'package:flutter_alarm_clock/app/data/models/alarm_info.dart';
-import 'package:flutter_alarm_clock/app/data/models/menu_info.dart';
+import 'package:daily_note_app/app/data/models/alarm_info.dart';
+import 'package:daily_note_app/app/data/models/menu_info.dart';
 
 List<MenuInfo> menuItems = [
   MenuInfo(MenuType.clock,
