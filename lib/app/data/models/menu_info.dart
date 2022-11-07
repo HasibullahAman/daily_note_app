@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter_alarm_clock/app/data/enums.dart';
+import 'package:daily_note_app/app/data/enums.dart';
 
 class MenuInfo extends ChangeNotifier {
   MenuType menuType;
