@@ -1,7 +1,7 @@
-name: flutter_alarm_clock
+name: daily_note_app
 version: 1.0.0+1
 publish_to: none
-description: A new Flutter project.
+description: KUCF Flutter Project.
 environment:
   sdk: ">=2.16.2 <3.0.0"
 

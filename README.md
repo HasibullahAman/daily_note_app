@@ -1,44 +1,14 @@
-# Flutter Clock App
-Minimal UI | Modern Theme | Full Functional<br>
-[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
-
-<p align="center">
-  <img src="flutter_clock_app.png" alt="flutter alarm clock app" title="Screenshot">
-</p>
-
-Flutter Custom Painter Tutorial || Clock App (Episode-1)
-https://youtu.be/HyAeZKWWuxA
-
-Flutter Design Tutorial || Clock App (Episode-2)
-https://youtu.be/MPc-K8oEbdE
-
-Flutter Navigation with Provider || Clock App (Episode-3)
-https://youtu.be/WMp5FnQ1X_g
-
-Flutter ListView Tutorial | Clock App (Episode-4)
-https://youtu.be/tKtYfuuVHlA
-
-Flutter Local Notification Tutorial | Clock App (Episode-5)
-https://youtu.be/iKxrt4ASR5Y
-
-SQLite Database in Flutter | Tutorial || Clock App (Episode-6)
-https://youtu.be/WqQhJmwp5L4
-
-Flutter Clock App | Live Coding
-https://youtu.be/AqDxcfhgvwE
-
-If you like my work, support me to create more!<br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E0BVKNS)
-
 ## Getting Started
+I considered this project for the 6th semester of university
+I made this project once in my 4th semester of university in React, I got the idea of this project from https://www.frontendmentor.io/ and many of my solutions are similar to my React project which is The project is also available in my GitHub Repository.
+On the first page of my program, the clock is shown in two ways, one digital and the other as a wall clock, and it still shows us the date of the same day, and in the bottom part, it shows the time zone of Afghanistan.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
+## Source:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [online documentation](https://flutter.dev/docs)
 
 For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
+, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
