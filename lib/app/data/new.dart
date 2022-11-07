@@ -8,3 +8,7 @@ List<MenuInfo> menuItems = [
   MenuInfo(MenuType.stopwatch,
       title: 'Stopwatch', imageSource: 'assets/stopwatch_icon.png'),
 ];
+  updateMenu(MenuInfo menuInfo) {
+    this.menuType = menuInfo.menuType;
+    this.title = menuInfo.title;
+    this.imageSource = menuInfo.imageSource;
