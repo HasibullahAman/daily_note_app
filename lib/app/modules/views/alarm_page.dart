@@ -1,12 +1,12 @@
-import 'package:flutter_alarm_clock/alarm_helper.dart';
-import 'package:flutter_alarm_clock/app/data/theme_data.dart';
-import 'package:flutter_alarm_clock/app/data/models/alarm_info.dart';
+import 'package:daily_note_app/alarm_helper.dart';
+import 'package:daily_note_app/app/data/theme_data.dart';
+import 'package:daily_note_app/app/data/models/alarm_info.dart';
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:intl/intl.dart';
 import 'package:timezone/timezone.dart' as tz;
-import 'package:flutter_alarm_clock/main.dart';
+import 'package:daily_note_app/main.dart';
 
 class AlarmPage extends StatefulWidget {
   @override

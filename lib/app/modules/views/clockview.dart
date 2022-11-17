@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:flutter_alarm_clock/app/data/theme_data.dart';
+import 'package:daily_note_app/app/data/theme_data.dart';
 
 class ClockView extends StatefulWidget {
   final double? size;
